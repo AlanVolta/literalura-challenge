@@ -1,8 +1,6 @@
 # 📚 LiterAlura - Infraestructura de Gestión Literaria
 
-¡Bienvenido a **LiterAlura**! Este proyecto nace de un desafío que me apasiona profundamente: la intersección entre la literatura clásica y la ingeniería de software. No es solo un buscador de libros; es una plataforma interactiva que consume la **API Gutendex**, procesa flujos de datos complejos y los transforma en una base de datos relacional robusta.
-
-Con LiterAlura, he buscado crear una herramienta que permita no solo recolectar información, sino descubrir patrones históricos y estadísticas que normalmente están ocultas en los datos crudos. Es un proyecto donde cada funcionalidad ha sido pensada para ofrecer precisión, integridad y una experiencia de usuario gratificante desde la consola.
+¡Bienvenido a **LiterAlura**! No es solo un buscador de libros; es una plataforma interactiva que consume la **API Gutendex**, procesa flujos de datos complejos y los transforma en una base de datos relacional robusta.
 
 ---
 
