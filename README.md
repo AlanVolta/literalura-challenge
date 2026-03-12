@@ -136,17 +136,6 @@ Aquí es donde el código se convierte en realidad. He capturado estos momentos 
 > **Resiliencia del Sistema:** Prueba de robustez donde el sistema captura excepciones de entrada inválida (Type Mismatch), informando al usuario sin interrumpir la ejecución.
 
 ---
-## 🌍 Visión a Futuro: Próximas Mejoras
-
-El camino no termina aquí. Tengo planes para expandir **LiterAlura** y elevar su potencial técnico hacia un entorno de producción más robusto:
-
-* **🔍 Búsqueda Directa por API:** Implementar un nuevo endpoint en el servicio de consumo para solicitar a Gutendex listas completas filtradas por idioma antes de la persistencia, optimizando el ancho de banda.
-* **💻 Interfaz Web:** Migrar este motor de búsqueda a una aplicación web dinámica, para una experiencia de usuario enriquecida y visual.
-* **🧠 Recomendaciones Inteligentes:** Integrar una lógica de recomendación (o una API de IA) que sugiera libros basados en los autores y géneros más consultados en la base de datos local.
-* **📄 Exportación de Datos:** Funcionalidad para generar reportes profesionales en formatos **PDF o CSV** de las búsquedas y estadísticas generadas para un análisis offline.
-* **📊 Dashboard de Estadísticas:** Integrar herramientas de visualización de datos (como Chart.js) para mostrar gráficamente la distribución de libros por idioma y tendencias de popularidad.
-
----
 
 ## 👩‍💻 Autor
 
